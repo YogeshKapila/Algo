@@ -7,7 +7,7 @@ Algorithm: Insertion Sort.
 def insertion_sort(input_list):
     """
     Insertion Sort Implementation
-    :param input_list:
+    :param input_list: Input List
     :return: Sorted Input List
     """
     length = len(input_list)
