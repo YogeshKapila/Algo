@@ -7,7 +7,7 @@ Algorithm: Selection Sort.
 def bubble_sort(input_list):
     """
     Bubble Sort Implementation
-    :param input_list:
+    :param input_list: Input List
     :return: Sorted Input List
     """
     length = len(input_list)
