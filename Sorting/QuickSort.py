@@ -29,7 +29,7 @@ def quick_sort_helper(input_list, low, high):
 def quick_sort(input_list):
     """
     Quick Sort Implementation.
-    :param input_list:
+    :param input_list: Input List
     :return: Sorted Input List
     """
     quick_sort_helper(input_list, low=0, high=len(input_list) - 1)
