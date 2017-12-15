@@ -50,7 +50,7 @@ def merge_sort_helper(input_list, left, right):
 def merge_sort(input_list):
     """
     Merge Sort Implementation
-    :param input_list:
+    :param input_list: Input List
     :return: Sorted Input List
     """
     merge_sort_helper(input_list, 0, len(input_list) - 1)
