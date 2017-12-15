@@ -28,7 +28,7 @@ def heapify(input_list, max_length, pos):
 def heap_sort(input_list):
     """
     Heap Sort Implementation.
-    :param input_list:
+    :param input_list: Input List
     :return: Sorted Input List
     """
 
