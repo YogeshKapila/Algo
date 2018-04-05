@@ -1,6 +1,6 @@
 """
 Sort an Array.
-Algorithm: Selection Sort.
+Algorithm: Bubble Sort.
 """
 
 
