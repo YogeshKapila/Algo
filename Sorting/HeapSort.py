@@ -1,6 +1,6 @@
 """
 Sort an Array.
-Algorithm: Merge Sort.
+Algorithm: Heap Sort.
 """
 
 
